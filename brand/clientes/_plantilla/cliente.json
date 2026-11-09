@@ -1,0 +1,8 @@
+{
+  "nombre": "<Nombre del cliente>",
+  "redes": "@usuario",
+  "subtitulos": "subtitulos.json",
+  "placa_final": null,
+  "paleta": { "principal": "#______", "fondo": "#______", "acento": "#______" },
+  "musica": false
+}
